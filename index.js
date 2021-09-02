@@ -1,1 +1,1 @@
-console.log("adios mundo 2");
+console.log("adios mundo 2\n Hola Soy Lenin");
